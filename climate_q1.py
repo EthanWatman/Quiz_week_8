@@ -1,5 +1,10 @@
 import matplotlib.pyplot as plt
-        
+import sqlite3
+
+
+
+
+
 years = []
 co2 = []
 temp = []
